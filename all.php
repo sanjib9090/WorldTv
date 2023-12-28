@@ -8,8 +8,7 @@
 <title>iPlexPlayer </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <link rel="stylesheet" href="css/channels3f22.css">
-    <link rel="stylesheet" href="css/nav3860.css">
+    <link rel="stylesheet" href="style.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/iconify/2.0.0/iconify.min.js"></script>
     <style>
         .stwBlurRainbowTop,
